@@ -24,6 +24,9 @@
     
 ![image](https://user-images.githubusercontent.com/8845050/166119356-d5bba035-41dd-4af3-80d9-9459a60d7b4f.png)
 
+## Candidate Results: ##
+
+  Resulted of the audit are broken out by candidate, percentage of total vote, and allocated vote of aggregate 
     
 ![image](https://user-images.githubusercontent.com/8845050/166118874-f21f5745-7e36-4d93-a219-ae85d3fb3eb3.png)
 
