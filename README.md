@@ -15,3 +15,11 @@
     
 ## Election Audit Results ##
 
+  Results of the audit showed a total of **369,711** votes cast during the congressional election
+  from the counties participating in the precinct.  These counties participant in the elections are:
+  
+    - Denver
+    - Jefferson
+    - Arapahoe
+    
+    
