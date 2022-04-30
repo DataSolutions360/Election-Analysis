@@ -27,6 +27,9 @@
 ## Candidate Results: ##
 
   Resulted of the audit are broken out by candidate, percentage of total vote, and allocated vote of aggregate 
+  
+    ### Diana Degette received 73.8% of the vote, which accounted for 272,892 votes.  She was the clear winner
+    
     
 ![image](https://user-images.githubusercontent.com/8845050/166118874-f21f5745-7e36-4d93-a219-ae85d3fb3eb3.png)
 
