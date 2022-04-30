@@ -18,8 +18,8 @@
   Results of the audit showed a total of **369,711** votes cast during the congressional election
   from the counties participating in the precinct.  These counties participant in the elections are:
   
-    - Denver
-    - Jefferson
-    - Arapahoe
+    - Denver --> 82.8% popular vote --> 306,055 votes  
+    - Jefferson --> 10.5% popular vote --> 38,855 votes
+    - Arapahoe --> 6.7% popular vote --> 24,801 votes
     
     
