@@ -39,6 +39,8 @@
 
 # Election Audit Summary
 
+  The code developed for this analysis isan efficent tool to allow for situational adjustments.  This code is very scalable 
+
 
     
     
