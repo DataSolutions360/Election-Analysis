@@ -22,6 +22,7 @@
     - Jefferson --> 10.5% popular vote --> 38,855 votes
     - Arapahoe --> 6.7% popular vote --> 24,801 votes
     
+![image](https://user-images.githubusercontent.com/8845050/166118874-f21f5745-7e36-4d93-a219-ae85d3fb3eb3.png)
 
 
     
