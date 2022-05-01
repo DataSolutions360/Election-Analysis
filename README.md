@@ -15,7 +15,7 @@
     
 ## Election Audit Results ##
 
-    Results of the audit showed a total of **369,711** votes cast during the congressional election
+  Results of the audit showed a total of **369,711** votes cast during the congressional election
   from the counties participating in the precinct.  These counties participant in the elections are:
   
     - Denver --> 82.8% popular vote --> 306,055 votes  
@@ -26,7 +26,7 @@
 
 ## Candidate Results: ##
 
-  Resulted of the audit are broken out by candidate, percentage of total vote, and allocated vote of aggregate 
+  Resulted of the audit are broken out by candidate, percentage of total vote, and allocated vote in aggregate 
   
       Diana Degette received 73.8% of the vote, which accounted for 272,892 votes.  She was the clear winner
       
@@ -38,12 +38,12 @@
     
 # Election Audit Summary
 
-    The code developed for this analysis is an efficent tool to allow for situational adjustments.  This code is very scalable, and the 
+  The code developed for this analysis is an efficent tool to allow for situational adjustments.  This code is very scalable, and the 
   customization is easily expressed in the results with transparency.
   
 ![image](https://user-images.githubusercontent.com/8845050/166127175-3e2b45bd-5070-4f8e-8b54-63ae654c9f60.png)
 
-    The code(file_to_load) allows for customization of the file location.  Data Source manipulation is extremely helpful when collaberating within a team.  
+  The code(file_to_load) allows for customization of the file location.  Data Source manipulation is extremely helpful when collaberating within a team.  
   Independent stakeholders can work on separate parts of a project, such as "Election Analysis".
   
     The code(file_to_save) allows the analyst/programmer the freedom to delegate the location(folder) within the file hierarchy.  
