@@ -48,7 +48,7 @@
   
     The code(file_to_save) allows the analyst/programmer the freedom to delegate the location(folder) within the file hierarchy.  
     
-##Candidate Name Explained##
+# Candidate Name Explained 
 
 The code below "fetches" the candidate_name in candidate_votes, and calculates the vote_percentage
 
@@ -56,7 +56,7 @@ Candidate_results then tabulates "CANDIDATE_NAME | VOTE_PERCENTAGE | Sum of VOTE
  
 ![image](https://user-images.githubusercontent.com/8845050/166127698-bb1ecb2f-1c8c-4697-a9ac-8efbafa2d109.png)
 
-##County Vote Explained##
+# County Vote Explained##
 
 The code below "fetches" the sum of county_votes, for each respective county.
 
