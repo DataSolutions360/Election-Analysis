@@ -34,9 +34,8 @@
       
       Raymon Anthony Doane received 3.1% of the vote, which accounted for 11,606 votes
     
+![image](https://user-images.githubusercontent.com/8845050/166129454-26dfbe55-7d67-4bf0-aff4-22e72980f1eb.png)
     
-![image](https://user-images.githubusercontent.com/8845050/166118874-f21f5745-7e36-4d93-a219-ae85d3fb3eb3.png)
-
 # Election Audit Summary
 
     The code developed for this analysis is an efficent tool to allow for situational adjustments.  This code is very scalable, and the 
