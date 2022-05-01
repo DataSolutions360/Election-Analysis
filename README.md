@@ -13,7 +13,7 @@
     6) Winner of the election
     7) The county with the largest voter turnout
     
-**Election Audit Results
+**Election Audit Results**
 
   Results of the audit showed a total of **369,711** votes cast during the congressional election
   from the counties participating in the precinct.  These counties participant in the elections are:
@@ -24,7 +24,7 @@
     
 ![image](https://user-images.githubusercontent.com/8845050/166129402-c5aca184-7e27-4fdf-8c61-d5ee0e9da461.png)
 
-**Candidate Results:
+**Candidate Results:**
 
   Resulted of the audit are broken out by candidate, percentage of total vote, and allocated vote in aggregate 
   
@@ -36,7 +36,7 @@
     
 ![image](https://user-images.githubusercontent.com/8845050/166129454-26dfbe55-7d67-4bf0-aff4-22e72980f1eb.png)
     
-**Election Audit Summary
+**Election Audit Summary**
 
  The code developed for this analysis is an efficent tool to allow for situational adjustments.  This code is very scalable, and the 
  customization is easily expressed in the results with transparency.
@@ -48,7 +48,7 @@
   
     The code(file_to_save) allows the analyst/programmer the freedom to delegate the location(folder) within the file hierarchy.  
     
-**Candidate Name Explained 
+**Candidate Name Explained**
 
 The code below "fetches" the candidate_name in candidate_votes, and calculates the vote_percentage
 
@@ -56,7 +56,7 @@ Candidate_results then tabulates "CANDIDATE_NAME | VOTE_PERCENTAGE | Sum of VOTE
  
 ![image](https://user-images.githubusercontent.com/8845050/166127698-bb1ecb2f-1c8c-4697-a9ac-8efbafa2d109.png)
 
-**County Vote Explained
+**County Vote Explained**
 
 The code below "fetches" the sum of county_votes, for each respective county.
 
