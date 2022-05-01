@@ -1,7 +1,7 @@
 # ELECTION-ANALYSIS
 **Overview of Project**
 
-  Analysis of an election audit of the COlorado Board of Elections for a recent 
+    Analysis of an election audit of the COlorado Board of Elections for a recent 
   local congressional election, to determine the winning candidate and the largest voter turnout, 
   based on county. The analysis required the following data to be utilized:
     
@@ -15,7 +15,7 @@
     
 ## Election Audit Results ##
 
-  Results of the audit showed a total of **369,711** votes cast during the congressional election
+    Results of the audit showed a total of **369,711** votes cast during the congressional election
   from the counties participating in the precinct.  These counties participant in the elections are:
   
     - Denver --> 82.8% popular vote --> 306,055 votes  
@@ -39,13 +39,23 @@
 
 # Election Audit Summary
 
-  The code developed for this analysis is an efficent tool to allow for situational adjustments.  This code is very scalable, and the 
+    The code developed for this analysis is an efficent tool to allow for situational adjustments.  This code is very scalable, and the 
   customization is easily expressed in the results with transparency.
   
-  ![image](https://user-images.githubusercontent.com/8845050/166126887-4ad9761c-5a8f-4690-a068-f7c0da2320d3.png)
+![image](https://user-images.githubusercontent.com/8845050/166127175-3e2b45bd-5070-4f8e-8b54-63ae654c9f60.png)
 
-  The code(file_to_load) allows for customization of the file location.  Data Source manipulation is extremely helpful when collaberating within a team.  
-  Independent stakeholders can work on separate parts of a project, such as "Election Analysis"
+    The code(file_to_load) allows for customization of the file location.  Data Source manipulation is extremely helpful when collaberating within a team.  
+  Independent stakeholders can work on separate parts of a project, such as "Election Analysis".
+  
+    The code(file_to_save) allows the analyst/programmer the freedom to delegate the location(folder) within the file hierarchy.  
+    
+##Candidate Name Explained##
+
+The code below "fetches" the candidate_name in candidate_votes, and calculates the vote_percentage
+
+Candidate_results then tabulates "CANDIDATE_NAME | VOTE_PERCENTAGE | Sum of VOTES" ,respectively.
+ 
+![image](https://user-images.githubusercontent.com/8845050/166127698-bb1ecb2f-1c8c-4697-a9ac-8efbafa2d109.png)
   
   
   
