@@ -39,7 +39,16 @@
 
 # Election Audit Summary
 
-  The code developed for this analysis isan efficent tool to allow for situational adjustments.  This code is very scalable 
+  The code developed for this analysis is an efficent tool to allow for situational adjustments.  This code is very scalable, and the 
+  customization is easily expressed in the results with transparency.
+  
+  ![image](https://user-images.githubusercontent.com/8845050/166126887-4ad9761c-5a8f-4690-a068-f7c0da2320d3.png)
+
+  The code(file_to_load) allows for customization of the file location.  Data Source manipulation is extremely helpful when collaberating within a team.  
+  Independent stakeholders can work on separate parts of a project, such as "Election Analysis"
+  
+  
+  
 
 
     
