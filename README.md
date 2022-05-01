@@ -62,7 +62,7 @@ The code below "fetches" the sum of county_votes, for each respective county.
 
 County_vote_percentage refers to the sum of county votes divided by the sum of total votes for the respective counties.
 
-County Results uses an F string to 
+County Results uses an F string to combine qualitative and quantitative values to allow for readable, tabular views
   
   ![image](https://user-images.githubusercontent.com/8845050/166128158-0cd18615-11df-4ec4-814e-c4b87baecd9c.png)
 
