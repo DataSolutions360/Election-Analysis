@@ -1,7 +1,7 @@
 # ELECTION-ANALYSIS
 **Overview of Project**
 
-    Analysis of an election audit of the COlorado Board of Elections for a recent 
+  Analysis of an election audit of the COlorado Board of Elections for a recent 
   local congressional election, to determine the winning candidate and the largest voter turnout, 
   based on county. The analysis required the following data to be utilized:
     
