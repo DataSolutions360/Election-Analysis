@@ -22,7 +22,7 @@
     - Jefferson --> 10.5% popular vote --> 38,855 votes
     - Arapahoe --> 6.7% popular vote --> 24,801 votes
     
-![image](https://user-images.githubusercontent.com/8845050/166119356-d5bba035-41dd-4af3-80d9-9459a60d7b4f.png)
+![image](https://user-images.githubusercontent.com/8845050/166129402-c5aca184-7e27-4fdf-8c61-d5ee0e9da461.png)
 
 ## Candidate Results: ##
 
