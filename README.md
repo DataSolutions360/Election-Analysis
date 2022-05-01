@@ -38,8 +38,8 @@
     
 # Election Audit Summary
 
-  The code developed for this analysis is an efficent tool to allow for situational adjustments.  This code is very scalable, and the 
-  customization is easily expressed in the results with transparency.
+ The code developed for this analysis is an efficent tool to allow for situational adjustments.  This code is very scalable, and the 
+ customization is easily expressed in the results with transparency.
   
 ![image](https://user-images.githubusercontent.com/8845050/166127175-3e2b45bd-5070-4f8e-8b54-63ae654c9f60.png)
 
